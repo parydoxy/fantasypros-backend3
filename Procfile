@@ -1,0 +1,1 @@
+web: node fantasypros_scraper.js
